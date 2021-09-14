@@ -24,21 +24,8 @@ If you haven't used these tools before, we would recommend following along with 
 |--------------------------|:------------------------------------------------:|
 | [address-fetcher](tools/address-fetcher)          | Fetching addresses of token holders and accounts |
 | [flat-distributor](tools/flat-distributor)         | Distribute a fixed amount of tokens              |
-| [proportional-distributor](tools/proportional-distributor) | Distribute a proportional amount of tokens       |
 
 The accompanying README for each tool is located in its directory. Refer to them for usage examples.
 
-## Issues
-Feel free to report any issues you encounter while using these tools, or ideas you may have for improvement. We will try to help out with any problems when we can, but understand that these tools were made for private use and there might be usage scenarios that we never thought of or got around to testing.
-
 ## License
 Distributed under the MIT License
-
-## Links
-* [Samoyed](https://samoyedcoin.com)
-* [Samoyed Twitter](https://twitter.com/samoyedcoin)
-* [Samoyed Discord](https://discord.gg/Gc5uecWZR2)
-* [Solana](https://solana.com/)
-* [Solana Discord](https://discord.com/invite/pquxPsq)
-
-Contact me on Discord: praskOo#0892
