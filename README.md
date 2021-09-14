@@ -1,5 +1,3 @@
-<p align="left"><a href="https://samoyedcoin.com" target="_blank" rel="noopener noreferrer"><img src="assets/logo/SamoyedTools.png?raw=true" alt="samoyed logo"></a></p>
-
 ## Overview
 This repository contains some of the scripts we have used for running our airdrop campaigns and other distributions. 
 
